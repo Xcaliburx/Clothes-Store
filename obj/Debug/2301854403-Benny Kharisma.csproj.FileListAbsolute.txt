@@ -1,0 +1,125 @@
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\2301854403-Benny Kharisma.dll.config
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\2301854403-Benny Kharisma.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\2301854403-Benny Kharisma.pdb
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\csc.exe
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\csc.exe.config
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\csc.rsp
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\csi.exe
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\csi.exe.config
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\csi.rsp
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.AppContext.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Console.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.Compression.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Net.Http.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Net.Sockets.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.ValueTuple.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.XPath.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\vbc.exe
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\vbc.exe.config
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\vbc.rsp
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\VBCSCompiler.exe
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.SqlServer.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.xml
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.SqlServer.xml
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.csproj.CoreCompileInputs.cache
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.csproj.CopyComplete
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.dll
+C:\Users\benik\Documents\asp.net\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.pdb
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\2301854403-Benny Kharisma.dll.config
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\2301854403-Benny Kharisma.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\2301854403-Benny Kharisma.pdb
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\csc.exe
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\csc.exe.config
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\csc.rsp
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\csi.exe
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\csi.exe.config
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\csi.rsp
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.AppContext.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Collections.Immutable.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Console.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Globalization.Calendars.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.Compression.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.FileSystem.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Net.Http.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Net.Sockets.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Reflection.Metadata.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.ValueTuple.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.XPath.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\vbc.exe
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\vbc.exe.config
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\vbc.rsp
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\VBCSCompiler.exe
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\roslyn\VBCSCompiler.exe.config
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.SqlServer.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.xml
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\EntityFramework.SqlServer.xml
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.csproj.AssemblyReference.cache
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.csproj.CoreCompileInputs.cache
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.csproj.CopyComplete
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.dll
+E:\Data\binus\kelas lab\psd\quiz original\2301854403-Benny Kharisma\obj\Debug\2301854403-Benny Kharisma.pdb
